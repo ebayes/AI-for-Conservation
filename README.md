@@ -1,7 +1,5 @@
-# NOTE
+# Aerial Drone Data
 _Date: 7th April 2023_
-
-This repo contains the files for analysis of meta-information and visualization of available annotation 
 
 The following two datasets were analyzed 
 
