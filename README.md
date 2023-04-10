@@ -17,4 +17,4 @@ Data analysis of two datasets as part of a project collecting metadata about aer
 - [Python file](https://github.com/ebayes/aerial-drone-data/blob/main/seabird_colonies_falkland.py)
 - [Jupyter Notebook](https://colab.research.google.com/drive/1kNlMaozgUV4rmE0zjjAk_yad2R46kVPT?usp=sharing)
 - [Sample image](https://github.com/ebayes/aerial-drone-data/blob/main/seabird_colonies_falkland_sample_image.png)
-- [Sample image with annotation](https://github.com/ebayes/aerial-drone-data/blob/main/seabird_colonies_falkland_sample_image_annotated.png)
+- [Sample image with annotation](https://github.com/ebayes/aerial-drone-data/blob/main/seabird_colonies_falkland_sample_image_annotated.png) 
