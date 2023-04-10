@@ -1,7 +1,7 @@
 # AI for Conservation
 _Date: 7th April 2023_
 
-Data analysis of two datasets as part of a project collecting metadata about aerial wildlife datasets for the [AI for Conservation slack] (https://beerys.github.io/#slack).
+Data analysis of two datasets as part of a project collecting metadata about aerial wildlife datasets for the [AI for Conservation slack](https://beerys.github.io/#slack).
 
 1. Wen Shao, Rei Kawakami, Ryota Yoshihashi, Shaodi You, Hidemichi Kawase, Takeshi Naemura. (2020). Cattle detection and counting in UAV images based on convolutional neural networks [Data set].
 
